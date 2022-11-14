@@ -1,5 +1,7 @@
 # BuyMeACoffee.Dapp
 
+##### (Solidity, Hardhat, Ethers.js, Alchemy)
+
 ## Ordering coffee with ETH using smart contract
 #### It allows people to buy you a support coffee and leave notes for you.
 #### 1-> Create events for notes
@@ -21,6 +23,7 @@
 #### 2-> Writing a note for buying coffee
 #### 3-> Account check after coffee
 #### 4-> Show all written notes
+
 
 
 ![buy-coffee](https://user-images.githubusercontent.com/85956625/201749597-b83b579e-d0a9-4109-95a2-8056a9896e48.PNG)
