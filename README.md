@@ -5,9 +5,13 @@
 ## Ordering coffee with ETH using smart contract
 ### It allows people to buy you a support coffee and leave notes for you.
  1-> Create events for notes
+ 
  2-> Creating the struct for notes
+ 
  3-> Publishing notes with the getMemos function
+ 
  4-> Sending eth to the contract and ordering coffee with the buyCoffee function
+ 
  5-> The person who wrote the contract withdraws the eth in the account
 
 
@@ -20,8 +24,11 @@
 
 ## Testing transactions on the contract
  1-> Withdraw to ETH contract account
+
  2-> Writing a note for buying coffee
+ 
  3-> Account check after coffee
+ 
  4-> Show all written notes
 
 
